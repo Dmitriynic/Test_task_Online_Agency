@@ -44,10 +44,10 @@
 
 Create and activate a virtual environment:
 
-'''
+```
 python -m venv venv
 venv\Scripts\activate
-'''
+```
 
 With the virtual environment active, install Django:
 '''
