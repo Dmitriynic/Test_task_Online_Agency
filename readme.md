@@ -40,7 +40,7 @@
 
 ## Solve
 
-##### Main info: please use '''python manage.py update_autoru_catalog''' to update database.
+#### Main info: please use '''python manage.py update_autoru_catalog''' to update database.
 
 Create and activate a virtual environment:
 
