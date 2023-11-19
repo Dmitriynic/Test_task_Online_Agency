@@ -1,5 +1,7 @@
 <h2 align="center">Test task Online Agency</h2>
-![Alt text](img1.png)
+<p align="center">
+   <img src="https://github.com/Dmitriynic/Test_task_Online_Agency/blob/main/img1.gif" alt="pict" height="500" width="800">
+</p>
 <p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/Python-3.9.6-red">
    <img alt="Static Badge" src="https://img.shields.io/badge/Django-4.2.7-blue">
