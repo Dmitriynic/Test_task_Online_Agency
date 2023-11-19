@@ -1,0 +1,21 @@
+{% extends '../flatpages/default.html' %}
+{% load static %}
+{% csrf_token %}
+{% block content %}
+  <form method="get" id="markForm" action="/marks">
+    <label for="markSelect">Выберите марку автомобиля:</label>
+    <select id="markSelect" name="mark">
+      <option value="" disabled selected>---</option>
+      {% for mark in marks %}
+        <option value="{{mark.id}}">{{mark.name}}</option>
+      {% endfor %}
+    </select>
+    <input type="button" value="Submit" id="submitBtn">
+  </form>
+  <div id="modelList">
+    <!-- Здесь будет отображаться список моделей для выбранной марки -->
+  </div>
+  {% block extra_js %}
+    <script src="{% static 'js/script.js' %}"></script>
+  {% endblock %}
+{% endblock %}
