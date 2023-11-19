@@ -1,6 +1,6 @@
 <h2 align="center">Test task Online Agency</h2>
 <p align="center">
-   <img src="https://github.com/Dmitriynic/Test_task_Online_Agency/blob/main/img1.png" alt="pict" height="250" width="800">
+   <img src="https://github.com/Dmitriynic/Test_task_Online_Agency/blob/main/img1.png" alt="pict" height="250" width="600">
 </p>
 <p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/Python-3.9.6-red">
@@ -340,4 +340,5 @@ And js logic:
     <li>Fetches car models on car mark selection.</li>
     <li>Updates the model list dynamically.</li>
     <li>Error handling for fetch requests.</li>
+</ul>
 </ul>
