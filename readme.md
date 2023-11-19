@@ -1,6 +1,6 @@
 <h2 align="center">Test task Online Agency</h2>
 <p align="center">
-   <img src="https://github.com/Dmitriynic/Test_task_Online_Agency/blob/main/img1.gif" alt="pict" height="500" width="800">
+   <img src="https://github.com/Dmitriynic/Test_task_Online_Agency/blob/main/img1.png" alt="pict" height="500" width="800">
 </p>
 <p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/Python-3.9.6-red">
@@ -43,6 +43,7 @@
 ###### Main info: please use '''python manage.py update_autoru_catalog''' to update database.
 
 Create and activate a virtual environment:
+
 '''
 python -m venv venv
 venv\Scripts\activate
