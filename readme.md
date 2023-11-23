@@ -157,8 +157,8 @@ STATICFILES_DIRS = [
 ]
 ```
 
-```
 Import os module in setting.py
+```
 import os
 ```
 
